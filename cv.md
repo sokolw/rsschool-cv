@@ -33,7 +33,7 @@ const even_or_odd = (number) => number % 2 === 0 ? "Even" : "Odd";
 ## Experience:
 I created a simple projects on C#:
 - `<link>`: [Blink](https://github.com/sokolw/Blink)
-- `<link>`: [Blink](https://github.com/sokolw/Millionaires)
+- `<link>`: [Millionaires](https://github.com/sokolw/Millionaires)
 
 -------------------------------
 
